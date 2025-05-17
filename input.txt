@@ -1,0 +1,3 @@
+Position1 1000 USD 5.0
+Position3 5000 EUR 3.5
+Position2 200 RUB 7.0
